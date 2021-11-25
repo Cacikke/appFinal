@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="2 Jugadores"
+        android:id="@+id/jug2" />
+    <item android:title="3 Jugadores"
+        android:id="@+id/jug3" />
+    <item android:title="4 Jugadores"
+        android:id="@+id/jug4" />
+</menu>

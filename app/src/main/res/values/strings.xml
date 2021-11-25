@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UpperDeck</string>
+    <string name="p1">- ¿Vas a sacar nuevas versiones?</string>
+    <string name="p2">- ¿Has encontrado muchas complicaciones a la hora de desarrollar la app?</string>
+    <string name="p3">- ¿Has disfrutado haciendo la app?</string>
+    <string name="p4">- ¿Mejorarías algo de lo que has desarrollado?</string>
+    <string name="p5">- ¿Te gusta Kotlin?</string>
+    <string name="p6">- ¿Tu app es la mejor de clase?</string>
+    <string name="p7">- ¿Has disfrutado mucho con la parte de diseño?</string>
+    <string name="si">- Si</string>
+    <string name="no">- No</string>
+    <string name="alguna">- Alguna que otra</string>
+    <string name="i1">- Alguna que otra</string>
+    <string name="i2">- Alguna que otra</string>
+    <string name="i3">- Alguna que otra</string>
+    <string name="i4">- Alguna que otra</string>
+    <string name="i5">- Alguna que otra</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="has_ganado">HAS GANADO!</string>
+    <string name="has_perdido">HAS PERDIDO!</string>
+    <string name="has_empatado">HAS EMPATADO!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ins1">1. Presionar Jugar</string>
+    <string name="ins2">2. Elegir el número de jugadores</string>
+    <string name="ins3">3. (Dentro de la partida) Darle al botón de Pasar, sólo puedes cambiar tu carta una vez</string>
+    <string name="ins4">4. Una vez elijas que carta te quedas, la primera o la segunda, pulsar Plantarse</string>
+    <string name="ins5">5. Si tu carta es mayor que la de tu oponente, ganas la partida, sino, pierdes</string>
+
+</resources>
